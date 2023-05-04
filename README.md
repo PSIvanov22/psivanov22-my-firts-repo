@@ -15,4 +15,5 @@ int main()
     } while (a <= 10);
     cout << "ravno = " << a << endl;
 }
-
+```pyton 
+print("SI TI PO TRI")
